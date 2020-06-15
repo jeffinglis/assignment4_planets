@@ -1,6 +1,6 @@
 # Assignment 4 Planets study data analysis
 
-[![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://gesis.mybinder.org/binder/v2/gh/jeffinglis/assignment4_planets/f513a993bc6b355974993ab580e27fccc7245b70)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jeffinglis/assignment4_planets/master)
 
 # Data Science Project 
 ***Jeff Inglis 5004536***
